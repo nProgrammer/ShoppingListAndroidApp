@@ -28,12 +28,23 @@
 
         <EditText
             android:id="@+id/editText"
-            android:layout_width="match_parent"
+            android:layout_width="183dp"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
             android:textColor="@color/textColor"
             android:textColorHint="@color/textColor" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="44dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/buttonColor"
+            android:text="+"
+            android:textColor="@color/textColor"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 
