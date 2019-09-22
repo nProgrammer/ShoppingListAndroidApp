@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/background"
     android:orientation="vertical"
+    android:padding="20px"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -31,8 +32,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:textColor="@color/colorPrimaryDark"
-            android:textColorHint="@color/colorPrimaryDark" />
+            android:textColor="@color/textColor"
+            android:textColorHint="@color/textColor" />
 
     </LinearLayout>
 
