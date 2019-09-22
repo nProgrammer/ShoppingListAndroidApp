@@ -1,4 +1,4 @@
 # ShoppingListAndroidApp
 Normal android shopping list app
 
-It's my training app. I'm training SQLite and Kotlin.
+It's only training app don't worry about the design!
